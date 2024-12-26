@@ -1,0 +1,16 @@
+/* Sidebar Styling */
+.sidebar {
+    height: 100vh;
+    padding: 0;
+}
+
+.sidebar .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 20px;
+}
+
+.sidebar .nav-link.active {
+    background-color: #007bff;
+    border-radius: 5px;
+}
+
